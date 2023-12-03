@@ -1,0 +1,9 @@
+* input file
+* each student is decribed by a line in the format:
+* roll number / name / exam1 grade1/ exam2 grade2/...
+* The various field delimiter is the '/' character
+Mark One      /12341/ calculus 25/ physics 27/ foundations_computer_science 30
+Jane Two      /12342/ calculus 30/ physics 29/ foundations_computer_science 30/ algebra 30
+Judith Three  /12343/ calculus 21/ physics 19/ foundations_computer_science 22/
+Karl Four     /12344/ calculus 30/ physics 29/ foundations_computer_science 29/ algebra 30 / digital_systems 29
+Frank Five    /12345/ calculus 24/ physics 22
